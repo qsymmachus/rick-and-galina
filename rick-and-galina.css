@@ -1,6 +1,6 @@
 #container {
   width: 80%;
-  margin: 250px auto 1em auto;
+  margin: 170px auto 1em auto;
 }
 
 h1, h2, h3 {
@@ -21,7 +21,7 @@ hr {
 #banner {
   background-image: url("images/banner.jpg");
   width: 100%;
-  height: 150px;
+  height: 100px;
   padding: 1.25em;
   position: fixed;
   top: 0;
@@ -36,16 +36,6 @@ img#couple {
   margin: 1em auto;
   width: 30%;
   min-width: 200px;
-}
-
-ul.nav {
-  list-style: none;
-  margin: 1em auto;
-  width: 15em;
-}
-
-ul.nav li {
-  float: left;
 }
 
 #couple {
